@@ -16,7 +16,7 @@
 - **Número microchip:** 978000001234567
 - **Alergias:** Graminia
 - **Vacunas básicas:** 
-- **Rabia** [x] Sí [ ] No  
+  - **Rabia** [x] Sí [ ] No  
   - **Parvovirosis** [x] Sí [ ] No  
   - **Moquillo** [x] Sí [ ] No  
   - **Hepatitis vírica** [x] Sí [ ] No  
