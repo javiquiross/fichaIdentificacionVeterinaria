@@ -29,7 +29,7 @@
 ## Alimentación 🥫​
 - **Tipo comida:** Blanda
 - **Ración diaria:** Una tarrina
-- **Frencuencia:** Dos veces al día
+- **Frecuencia:** Dos veces al día
 
 ## Comportamiento 😀​😁​😡​😭​
 - **Personalidad:** Amistoso
